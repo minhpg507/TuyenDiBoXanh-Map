@@ -1,0 +1,35 @@
+{
+  "name": "Tuyến Đi Bộ Xanh",
+  "short_name": "Đi Bộ Xanh",
+  "description": "Bản đồ hướng dẫn tuyến đi bộ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+"screenshots": [
+    {
+      "src": "screen-mobile.png",
+      "sizes": "1918x867",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screen-desktop.png",
+      "sizes": "1918x865",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
